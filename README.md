@@ -1,24 +1,10 @@
-# googlemaptest
+# googlemap autocomplete 
+my blog : 
+https://weiupward.com/2021/08/23/google-map-place-api-autocomplete-in-vue-%e7%ad%86%e8%a8%98/
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+練習關於VUE的專案剛好想做一下關於google address 搜尋的功能，於是簡單的紀錄一下這次的步驟。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1.啟用google map Places API
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2.vue 專案裡面加入，並加上autocomplete 的程式碼
